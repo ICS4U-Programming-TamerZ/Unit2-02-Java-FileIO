@@ -1,0 +1,4 @@
+Error occurred in input line: Hello World
+13
+0
+0
